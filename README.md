@@ -7,11 +7,11 @@ sudo pip install adafruit_mpu6050 board
 
 The connection between mpu6050 and raspberry pi is shown in the image below. 
 
-pi ---- mpu6050
-v3 ---> vn
-GND --> GND
-SCL --> SCL
-SDA --> SDA
+*pi ---- mpu6050
+*v3 ---> vn
+*GND --> GND
+*SCL --> SCL
+*SDA --> SDA
 
 after cloning the repo run 
 
